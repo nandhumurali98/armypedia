@@ -1,0 +1,71 @@
+body{
+    font-family: 'Dancing script','cursive';
+}
+#title{
+    background-color: #a01cff;
+    color: white;
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+.navbar-brand{
+    font-size: 2rem;
+}
+.navbar-nav{
+   margin-left: auto;
+}
+.play{
+    margin: 10rem 0 1rem 15rem;
+    font-size: 1.5rem;
+    font-weight:300
+
+}
+.play-btn{
+    margin: 0.5rem;
+}
+.img-container{
+    margin: 2rem;
+    padding:3rem;
+}
+.img-container>img{
+    padding: 1rem;
+}
+.member-name{
+    padding: 1rem;
+    text-align: center;
+    font-weight: 600;
+}
+.profile-heading{
+    text-align: center;
+    margin: 2rem;
+    font-weight: 500;
+    font-size: 2.5rem;
+}
+#discography{
+    background-color: #a01cff;
+    padding-bottom: 5% ;
+}
+.album-container{
+    margin: 0 15% ;
+    padding: 0;
+}
+.album-img{
+    height:200px;
+    margin: 0;
+    padding: 1rem 0 1rem 0 ;
+}
+.form-container{
+    margin: 10%;
+}
+.contact{
+    padding: 0.5rem;
+    margin: 1.5rem;
+}
+#footer{
+    text-align: center;
+    background-color: #a01cff;
+    color: white;
+   height: 5rem;
+   width: 100%;
+   padding: 2rem;
+}
